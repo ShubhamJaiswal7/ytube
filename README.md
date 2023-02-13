@@ -1,4 +1,5 @@
 Youtube Clone Project
+
 A complete replica of the popular video-sharing platform, YouTube, that allows users to view and share videos.
 
 Getting Started
